@@ -1,0 +1,12 @@
+D:\Projects\tryfortrain\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe.config
+D:\Projects\tryfortrain\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+D:\Projects\tryfortrain\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
+D:\Projects\tryfortrain\ConsoleApplication24\obj\Debug\ConsoleApplication24.csprojResolveAssemblyReference.cache
+D:\Projects\tryfortrain\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
+D:\Projects\tryfortrain\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb
+C:\Research\train\tryfortrain\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe.config
+C:\Research\train\tryfortrain\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
+C:\Research\train\tryfortrain\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb
+C:\Research\train\tryfortrain\ConsoleApplication24\obj\Debug\ConsoleApplication24.csprojResolveAssemblyReference.cache
+C:\Research\train\tryfortrain\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+C:\Research\train\tryfortrain\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
